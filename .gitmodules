@@ -1,0 +1,4 @@
+[submodule "mintlin-minecraft"]
+	path = mintlin-minecraft
+	url = https://github.com/Bruce0203/mintlin-minecraft
+

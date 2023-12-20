@@ -1,0 +1,2 @@
+package mintlin.lang
+
