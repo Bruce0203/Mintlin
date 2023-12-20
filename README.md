@@ -1,6 +1,6 @@
-# Mintlin
+# Mintlin ~~(Min(ecraft) (Ko)tlin)~~
 
-Mintlin (Min(ecraft) (Ko)tlin) is a Minecraft server fully written in Kotlin,
+Mintlin is a Minecraft server fully written in Kotlin,
 that aims to customize minigame server, being able to run itself without any of Mojang code.
 
 It is designed to generate dependency-less Java code and in the future JS or WASM code too.
