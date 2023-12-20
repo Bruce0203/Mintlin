@@ -17,3 +17,5 @@ The project can be embedded as a library and also allows compiling code into mul
 * Not depending on the JVM.
 * AntiCheat implementation on the server.
 * Various game protocol versions are supported, enabling users to connect across different versions.
+
+[**join discord**](https://discord.gg/2KnEqH6JEH)
